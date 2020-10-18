@@ -1,11 +1,11 @@
 ## Welcome to GitHub Pages
 
 
-[![moonlajs's github stats](https://github-readme-stats.vercel.app/api?username=moonlajs)](https://github.com/anuraghazra/github-readme-stats)
-![moonlajs's github stats](https://github-readme-stats.vercel.app/api?username=moonlajs&show_icons=true)
+
 ![moonlajs's github stats](https://github-readme-stats.vercel.app/api?username=moonlajs&show_icons=true&theme=radical)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonlajs&repo=zhang-toast-npmjs)](https://github.com/anuraghazra/github-readme-stats)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonlajs&repo=web)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonlajs&repo=zScroll)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlajs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlajs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,7 +17,7 @@
 
 
 
-### 主页访问次数： ![](https://komarev.com/ghpvc/?username=moonlajs&color=green)
+### ![](https://komarev.com/ghpvc/?username=moonlajs&color=green&style=flat-square&label=我的主页访问次数：)
 
 
 
