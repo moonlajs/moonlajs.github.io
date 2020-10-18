@@ -11,17 +11,16 @@
 
 ## 使用最多的开发语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlajs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlajs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Focus Repo](https://github-readme-states.vercel.app/api/pin/?username=moonlajs&repo=zhang-toast-npmjs&show_owner=true)](https://github.com/moonlajs/zhang-toast-npmjs)
 
 
 
+## trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=moonlajs)](https://github.com/moonlajs/git)
 
 
 
-### ![](https://komarev.com/ghpvc/?username=moonlajs&color=green&style=flat-square&label=我的主页访问次数：)
+### moonlajs's GitHub Pages 主页访问次数
+![](https://komarev.com/ghpvc/?username=moonlajs&color=green&style=flat-square&label=主页访问次数：)
 
 
 
