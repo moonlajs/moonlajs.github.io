@@ -8,6 +8,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonlajs&repo=zhang-toast-npmjs)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonlajs&repo=web)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonlajs&repo=zScroll)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonlajs&repo=syma_asia)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonlajs&repo=fabricboard)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 使用最多的开发语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlajs)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,8 +23,8 @@
 
 
 
-### moonlajs's GitHub Pages 主页访问次数
-![](https://komarev.com/ghpvc/?username=moonlajs&color=green&style=flat-square&label=主页访问次数：)
+## moonlajs's GitHub Pages 主页访问次数
+![](https://komarev.com/ghpvc/?username=moonlajs&color=green&style=flat-square&label=访问次数)
 
 
 
